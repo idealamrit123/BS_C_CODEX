@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "BS_C_CODEX",
+			"path": "."
+		},
+		{
+			"name": "GIT_RECORDS",
+			"path": "../GIT_RECORDS"
+		},
+		{
+			"name": "PRACTICE_SESSIONS_CODEX",
+			"path": "../PRACTICE_SESSIONS_CODEX"
+		},
+		{
+			"name": "PROGRAMMING",
+			"path": "../PROGRAMMING"
+		}
+	],
+	"settings": {}
+}
